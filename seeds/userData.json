@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Testman",
+        "email": "tesman@test.com",
+        "password": "tesman"
+    },
+    {
+        "name": "Tesy McTesterson",
+        "email": "TMcT@test.com",
+        "password": "TMcT"
+    },
+    {
+        "name": "Testy McTesterson Jr.",
+        "email": "TMcTJr@test.com",
+        "password": "test"
+    }
+]
